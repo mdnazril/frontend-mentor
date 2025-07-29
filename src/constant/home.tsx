@@ -10,7 +10,7 @@ export const challenges = {
             description: "In this small project, you'll build out your social link-sharing profile. You can even personalize it and use it to share all your social profiles!",
             image: socialLinkProfile,
             liveUrl: "/easy/social-link-profile",
-            githubUrl: "https://github.com/mdnazril/frontendMentor/tree/main/src/app/easy/social-link-profile",
+            githubUrl: "https://github.com/mdnazril/frontend-mentor/tree/master/src/app/easy/social-link-profile",
         },
         {
             id: 2,
@@ -18,7 +18,7 @@ export const challenges = {
             description: "A perfect first challenge if you're new to HTML and CSS. The card layout doesn't shift, so it's ideal if you haven't learned about building responsive layouts yet.",
             image: QRCodeComponent,
             liveUrl: "/easy/QR-code-component",
-            githubUrl: "https://github.com/mdnazril/frontendMentor/tree/main/src/app/easy/QR-code-component",
+            githubUrl: "https://github.com/mdnazril/frontend-mentor/tree/master/src/app/easy/QR-code-component",
         }
     ],
     Junior: [
@@ -28,7 +28,7 @@ export const challenges = {
         //     description: "This challenge is designed to sharpen your JavaScript and form validation skills. Working with dates in JavaScript can be tricky, so this will be a nice test!",
         //     image: QRCodeComponent,
         //     liveUrl: "/junior/age-calculator-app",
-        //     githubUrl: "https://github.com/mdnazril/frontendMentor/tree/main/src/app/junior/age-calculator-app",
+        //     githubUrl: "https://github.com/mdnazril/frontend-mentor/tree/master/src/app/junior/age-calculator-app",
         //     inProgress: true
         // }
     ],
