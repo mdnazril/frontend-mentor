@@ -1,6 +1,7 @@
 import { Brain, Cpu, Hammer, Sparkles } from "lucide-react"
 import socialLinkProfile from "@/assets/home/social-link-profile.png"
 import QRCodeComponent from "@/assets/home/QR-code-component.png"
+import ageCalculatorApp from "@/assets/home/age-calculator-app.png"
 
 export const challenges = {
     Newbie: [
@@ -22,15 +23,14 @@ export const challenges = {
         }
     ],
     Junior: [
-        // {
-        //     id: 1,
-        //     title: "Age Calculator App",
-        //     description: "This challenge is designed to sharpen your JavaScript and form validation skills. Working with dates in JavaScript can be tricky, so this will be a nice test!",
-        //     image: QRCodeComponent,
-        //     liveUrl: "/junior/age-calculator-app",
-        //     githubUrl: "https://github.com/mdnazril/frontend-mentor/tree/master/src/app/junior/age-calculator-app",
-        //     inProgress: true
-        // }
+        {
+            id: 1,
+            title: "Age Calculator App",
+            description: "This challenge is designed to sharpen your JavaScript and form validation skills. Working with dates in JavaScript can be tricky, so this will be a nice test!",
+            image: ageCalculatorApp,
+            liveUrl: "/junior/age-calculator-app",
+            githubUrl: "https://github.com/mdnazril/frontend-mentor/tree/master/src/app/junior/age-calculator-app",
+        }
     ],
     Intermediate: [],
     Advanced: [],
